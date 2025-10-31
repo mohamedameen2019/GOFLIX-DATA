@@ -378,10 +378,6 @@ insert into CHECKINOUT values (412, '2025-10-30 08:10:36.000','I',15,2,0,NULL,1)
 insert into CHECKINOUT values (715, '2025-10-29 20:08:31.000','I',15,2,0,NULL,1);
 insert into CHECKINOUT values (324, '2025-10-27 19:17:31.000','I',15,2,0,NULL,1);
 insert into CHECKINOUT values (324, '2025-10-29 20:12:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (1857, '2025-10-27 14:08:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (1857, '2025-10-27 20:02:31.000','I',15,2,0,NULL,1);insert into CHECKINOUT values (33, '2025-10-28 14:11:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (134, '2025-10-25 14:23:36.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (757, '2025-10-25 14:09:31.000','I',15,2,0,NULL,1);
 insert into CHECKINOUT values (3964, '2025-10-29 14:11:35.000','I',15,2,0,NULL,1);
 insert into CHECKINOUT values (664, '2025-10-25 14:23:35.000','I',15,2,0,NULL,1); 
 insert into CHECKINOUT values (413, '2025-10-29 15:27:31.000','I',15,2,0,NULL,1);
