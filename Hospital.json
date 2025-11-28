@@ -97,7 +97,6 @@ insert into CHECKINOUT values (227, '2025-11-28 08:03:36.000','I',15,1,0,NULL,1)
 insert into CHECKINOUT values (235, '2025-11-27 19:44:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (235, '2025-11-28 08:04:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (221, '2025-11-27 19:49:36.000','I',15,1,0,NULL,1);
-insert into CHECKINOUT values (221, '2025-11-28 08 08:12:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (200, '2025-11-27 20:05:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (200, '2025-11-28 08:01:36.000','I',15,1,0,NULL,1);
 
