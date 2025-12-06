@@ -575,6 +575,8 @@ insert into CHECKINOUT values (14, '2025-12-07 08:11:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (887, '2025-12-07 08:06:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (59, '2025-12-07 08:04:36.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (68, '2025-12-07 08:03:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (757, '2025-12-06 20:03:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (757, '2025-12-07 08:03:36.000','I',15,1,0,NULL,1);
 
 insert into CHECKINOUT values (135, '2025-12-06 14:07:31.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (135, '2025-12-07 08:07:31.000','I',15,1,0,NULL,1);
