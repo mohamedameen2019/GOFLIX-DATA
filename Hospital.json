@@ -167,7 +167,135 @@ insert into CHECKINOUT values (837, '2025-12-16 14:04:31.000','I',15,1,0,NULL,1)
 insert into CHECKINOUT values (727, '2025-12-16 14:02:31.000','I',15,1,0,NULL,1);
 insert into CHECKINOUT values (746, '2025-12-16 14:04:31.000','I',15,1,0,NULL,1);
 
+insert into CHECKINOUT values (234, '2025-12-17 08:16:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (244, '2025-12-17 08:28:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (241, '2025-12-17 08:07:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (5995, '2025-12-17 08:18:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (251, '2025-12-17 08:25:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (866, '2025-12-17 08:18:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (869, '2025-12-17 08:24:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (3932, '2025-12-17 08:29:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (196, '2025-12-17 08:07:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (201, '2025-12-17 08:29:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (14039, '2025-12-17 08:21:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (199, '2025-12-17 08:17:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (741, '2025-12-17 08:24:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (637, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (852, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (221, '2025-12-17 08:18:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (246, '2025-12-17 08:23:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (850, '2025-12-17 08:21:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (233, '2025-12-17 08:17:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (213, '2025-12-17 08:25:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (212, '2025-12-17 08:28:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (209, '2025-12-17 08:21:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (202, '2025-12-17 08:12:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (200, '2025-12-17 08:18:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (2899, '2025-12-17 08:25:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (205, '2025-12-17 08:04:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (250, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (231, '2025-12-17 08:18:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (11002, '2025-12-17 08:20:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (14036, '2025-12-17 08:21:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (238, '2025-12-17 08:11:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (255, '2025-12-17 08:16:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (206, '2025-12-17 08:24:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (5993, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (13019, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (762, '2025-12-17 08:19:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (211, '2025-12-17 08:26:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (7998, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (504, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (208, '2025-12-17 08:16:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (203, '2025-12-17 08:24:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (204, '2025-12-17 08:25:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (813, '2025-12-17 08:03:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (210, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (214, '2025-12-17 08:18:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (245, '2025-12-17 08:24:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (252, '2025-12-17 08:06:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (4981, '2025-12-17 08:02:36.000','I',15,1,0,NULL,1);
 
+insert into CHECKINOUT values (15052, '2025-12-17 08:11:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (4990, '2025-12-17 08:17:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (842, '2025-12-17 08:03:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (223, '2025-12-17 08:19:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (8999, '2025-12-17 08:25:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (225, '2025-12-17 08:16:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (823, '2025-12-17 08:25:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (226, '2025-12-17 08:29:31.000','I',15,1,0,NULL,1);
+
+
+
+
+insert into CHECKINOUT values (880, '2025-12-17 08:02:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (859, '2025-12-17 08:03:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (261, '2025-12-17 08:11:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (15046, '2025-12-17 08:28:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (792, '2025-12-17 08:14:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (4976, '2025-12-17 08:27:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (14038, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (275, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (628, '2025-12-17 08:18:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (867, '2025-12-17 08:25:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (715, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (705, '2025-12-17 08:14:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (273, '2025-12-17 08:27:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (11008, '2025-12-17 08:21:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (12016, '2025-12-17 08:11:35.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (714, '2025-12-17 08:08:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (6998, '2025-12-17 08:14:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (276, '2025-12-17 08:27:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (5991, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (15050, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (12014, '2025-12-17 08:06:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (264, '2025-12-17 08:09:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (4978, '2025-12-17 08:17:31.000','I',15,1,0,NULL,1); 
+insert into CHECKINOUT values (263, '2025-12-17 08:25:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (257, '2025-12-17 08:14:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (269, '2025-12-17 08:27:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (13028, '2025-12-17 08:24:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (4991, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (272, '2025-12-17 08:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (12017, '2025-12-17 08:17:35.000','I',15,1,0,NULL,1);
+
+
+
+insert into CHECKINOUT values (347, '2025-12-17 08:12:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (870, '2025-12-17 08:24:09.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (324, '2025-12-17 08:03:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (13030, '2025-12-17 08:14:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (161, '2025-12-17 08:20:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (837, '2025-12-17 08:13:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (727, '2025-12-17 08:21:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (746, '2025-12-17 08:17:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (348, '2025-12-17 08:24:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (384, '2025-12-17 08:06:31.000','I',15,1,0,NULL,1);
+
+
+insert into CHECKINOUT values (781, '2025-12-17 09:03:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (72, '2025-12-17 06:16:11.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (44, '2025-12-17 06:23:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (45, '2025-12-17 06:09:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (43, '2025-12-17 06:11:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (9899, '2025-12-17 06:14:34.000','I',15,1,0,NULL,1); 
+insert into CHECKINOUT values (564, '2025-12-17 06:20:11.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (9900, '2025-12-17 07:05:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (12931, '2025-12-17 07:01:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (141, '2025-12-17 06:28:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (31, '2025-12-17 06:21:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (137, '2025-12-17 06:11:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (12928, '2025-12-17 09:01:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (776, '2025-12-17 09:02:31.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (616, '2025-12-17 09:03:34.000','I',15,1,0,NULL,1);insert into CHECKINOUT values (136, '2025-12-17 08:03:31.000','I',15,1,0,NULL,1);insert into CHECKINOUT values (474, '2025-12-17 08:16:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (472, '2025-12-17 08:24:36.000','I',15,1,0,NULL,1);insert into CHECKINOUT values (736, '2025-12-17 07:15:18.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (735, '2025-12-17 07:16:21.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (2860, '2025-12-17 07:25:27.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (737, '2025-12-17 07:40:21.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (733, '2025-12-17 07:18:18.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (734, '2025-12-17 07:44:18.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (738, '2025-12-17 07:48:21.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (691, '2025-12-17 07:22:27.000','I',15,1,0,NULL,1);
 
 
 insert into CHECKINOUT values (820, '2025-12-16 14:11:36.000','I',15,1,0,NULL,1);
