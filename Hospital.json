@@ -108,7 +108,54 @@ insert into CHECKINOUT values (227, '2026-01-21 20:05:31.000','I',15,3,0,NULL,1)
 insert into CHECKINOUT values (227, '2026-01-22 08:11:31.000','I',15,3,0,NULL,1);
 insert into CHECKINOUT values (250, '2026-01-21 19:17:31.000','I',15,3,0,NULL,1);
 insert into CHECKINOUT values (250, '2026-01-22 08:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (135, '2026-01-21 14:04:31.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (813, '2026-01-22 07:19:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (196, '2026-01-22 08:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (200, '2026-01-22 07:29:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (202, '2026-01-22 08:00:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (203, '2026-01-22 08:00:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (208, '2026-01-22 08:19:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (210, '2026-01-22 08:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3934, '2026-01-22 08:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (762, '2026-01-22 08:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (227, '2026-01-22 08:05:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (249, '2026-01-22 08:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (250, '2026-01-22 08:07:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (255, '2026-01-22 08:02:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (424, '2026-01-22 08:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (504, '2026-01-22 07:44:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (637, '2026-01-22 08:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (11002, '2026-01-22 08:12:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (696, '2026-01-22 08:08:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (80, '2026-01-22 07:29:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (768, '2026-01-22 07:55:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (455, '2026-01-22 08:13:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (161, '2026-01-22 08:11:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (2892, '2026-01-22 08:18:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (13019, '2026-01-22 08:02:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (14039, '2026-01-22 08:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (232, '2026-01-22 08:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (7998, '2026-01-22 08:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (257, '2026-01-22 08:17:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (264, '2026-01-22 08:12:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (269, '2026-01-22 08:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (697, '2026-01-22 08:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (693, '2026-01-22 08:13:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (859, '2026-01-22 08:03:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (287, '2026-01-22 07:23:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (495, '2026-01-22 07:21:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (285, '2026-01-22 08:10:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (523, '2026-01-22 07:59:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (107, '2026-01-22 08:02:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (13028, '2026-01-22 14:19:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (225, '2026-01-22 08:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (226, '2026-01-22 08:15:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (738, '2026-01-22 07:44:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (384, '2026-01-22 08:11:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (327, '2026-01-22 08:16:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (368, '2026-01-22 08:05:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (135, '2026-01-22 08:11:31.000','I',15,3,0,NULL,1);
+
 
 
 AZAXX*X2SQML
