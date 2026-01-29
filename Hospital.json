@@ -1,580 +1,401 @@
-insert into CHECKINOUT values (212, '2026-01-27 14:08:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4981, '2026-01-27 14:02:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (850, '2026-01-27 14:08:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (232, '2026-01-27 14:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (241, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (206, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (246, '2026-01-27 14:04:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (238, '2026-01-27 14:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3951, '2026-01-27 14:13:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (251, '2026-01-27 14:27:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (233, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3934, '2026-01-27 14:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (203, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (250, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (231, '2026-01-27 14:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (11002, '2026-01-27 14:06:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (7998, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (201, '2026-01-27 14:05:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (195, '2026-01-27 14:02:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (196, '2026-01-27 14:06:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (205, '2026-01-27 14:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (209, '2026-01-27 14:28:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (866, '2026-01-27 14:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14036, '2026-01-27 14:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (213, '2026-01-27 14:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (234, '2026-01-27 14:20:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (254, '2026-01-27 14:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5993, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14039, '2026-01-27 14:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (227, '2026-01-27 14:26:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (244, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (211, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13019, '2026-01-27 14:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (504, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (202, '2026-01-27 14:07:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (200, '2026-01-27 14:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (869, '2026-01-27 14:09:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (204, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (813, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (210, '2026-01-27 14:20:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (214, '2026-01-27 14:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (245, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-
-
-
-insert into CHECKINOUT values (15052, '2026-01-27 14:06:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4990, '2026-01-27 14:01:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3932, '2026-01-27 14:09:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (8999, '2026-01-27 14:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (223, '2026-01-27 14:02:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (823, '2026-01-27 14:15:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (842, '2026-01-27 14:28:31.000','I',15,3,0,NULL,1);
-
-
-
-insert into CHECKINOUT values (5991, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4991, '2026-01-27 14:02:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15046, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (11008, '2026-01-27 14:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (880, '2026-01-27 14:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (792, '2026-01-27 14:28:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14038, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (273, '2026-01-27 14:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (715, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4976, '2026-01-27 14:25:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (859, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15050, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (257, '2026-01-27 14:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (264, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (269, '2026-01-27 14:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13028, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (628, '2026-01-27 14:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (714, '2026-01-27 14:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (661, '2026-01-27 14:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12014, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12016, '2026-01-27 14:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (275, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (12017, '2026-01-27 14:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (261, '2026-01-27 14:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (272, '2026-01-27 14:16:31.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (141, '2026-01-27 12:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (776, '2026-01-27 16:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (781, '2026-01-27 16:17:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (72, '2026-01-27 12:21:11.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (44, '2026-01-27 12:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (43, '2026-01-27 12:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (9899, '2026-01-27 16:23:34.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (564, '2026-01-27 12:21:11.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (9900, '2026-01-27 15:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12931, '2026-01-27 15:06:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (31, '2026-01-27 16:07:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (137, '2026-01-27 12:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12928, '2026-01-27 12:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (616, '2026-01-27 16:21:34.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (324, '2026-01-27 14:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (465, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (820, '2026-01-27 14:09:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (384, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (513, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4987, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (280, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (287, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (2892, '2026-01-27 14:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3940, '2026-01-27 14:12:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (416, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5996, '2026-01-27 14:06:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (857, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (60, '2026-01-27 14:16:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (641, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (495, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (301, '2026-01-27 14:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (302, '2026-01-27 14:01:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4971, '2026-01-27 14:09:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (347, '2026-01-27 14:16:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (870, '2026-01-27 14:22:09.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13030, '2026-01-27 14:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (161, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (837, '2026-01-27 14:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (727, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (746, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (455, '2026-01-27 14:04:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (364, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14041, '2026-01-27 14:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (285, '2026-01-27 14:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (131, '2026-01-27 14:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (130, '2026-01-27 14:18:36.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (699, '2026-01-27 14:05:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (844, '2026-01-27 14:08:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (295, '2026-01-27 14:17:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (368, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (292, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (657, '2026-01-27 14:02:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (288, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (291, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (296, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (297, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-
-
-
-insert into CHECKINOUT values (327, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (315, '2026-01-27 14:03:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (769, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (696, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (307, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (306, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (751, '2026-01-27 14:15:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (313, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (366, '2026-01-27 14:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (697, '2026-01-27 14:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (693, '2026-01-27 14:08:31.000','I',15,3,0,NULL,1);
-
-
-
-insert into CHECKINOUT values (143, '2026-01-27 14:06:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (692, '2026-01-27 14:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (389, '2026-01-27 14:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (695, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (590, '2026-01-27 14:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (133, '2026-01-27 14:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (136, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (388, '2026-01-27 14:03:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3944, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (318, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (652, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (333, '2026-01-27 14:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (314, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (25, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (534, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (134, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (61, '2026-01-27 14:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (377, '2026-01-27 14:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (91, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (359, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15049, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3945, '2026-01-27 14:16:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (71, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (602, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (474, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (93, '2026-01-27 14:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (423, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (358, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (142, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (593, '2026-01-27 14:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (475, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (536, '2026-01-27 14:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (565, '2026-01-27 14:10:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (394, '2026-01-27 14:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (89, '2026-01-27 14:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (29, '2026-01-27 14:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (343, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (371, '2026-01-27 14:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (369, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (409, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3912, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (421, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (887, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (64, '2026-01-27 14:13:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (104, '2026-01-27 14:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (338, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (116, '2026-01-27 14:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13034, '2026-01-27 14:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (281, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (11003, '2026-01-27 14:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (754, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-
-
-insert into CHECKINOUT values (394, '2026-01-27 14:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (152, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (11003, '2026-01-27 14:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (751, '2026-01-27 14:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (415, '2026-01-27 15:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (412, '2026-01-27 15:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (413, '2026-01-27 15:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (305, '2026-01-27 14:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3964, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-
-
-insert into CHECKINOUT values (736, '2026-01-27 15:07:18.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (735, '2026-01-27 15:01:21.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (2860, '2026-01-27 15:11:27.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (737, '2026-01-27 15:17:21.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (733, '2026-01-27 15:21:18.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (734, '2026-01-27 15:06:18.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (738, '2026-01-27 15:11:21.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (691, '2026-01-27 15:18:27.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (181, '2026-01-27 16:09:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (438, '2026-01-27 12:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (179, '2026-01-27 12:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (182, '2026-01-27 12:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (186, '2026-01-27 12:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (175, '2026-01-27 12:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (761, '2026-01-27 16:09:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (764, '2026-01-27 16:06:35.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (765, '2026-01-27 16:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (743, '2026-01-27 16:23:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (129, '2026-01-27 16:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (69, '2026-01-27 12:11:31.000','I',15,3,0,NULL,1);
-
-
-insert into CHECKINOUT values (109, '2026-01-27 16:08:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (122, '2026-01-27 16:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (101, '2026-01-27 16:27:31.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (100, '2026-01-27 16:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (187, '2026-01-27 16:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (72, '2026-01-27 12:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5867, '2026-01-27 16:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (776, '2026-01-27 16:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (669, '2026-01-27 23:08:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (690, '2026-01-27 16:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (754, '2026-01-27 16:02:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (650, '2026-01-27 16:09:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (661, '2026-01-27 14:04:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (341, '2026-01-27 14:01:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (336, '2026-01-27 14:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (390, '2026-01-27 14:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (391, '2026-01-27 14:05:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (337, '2026-01-27 14:16:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (2891, '2026-01-27 14:26:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (332, '2026-01-27 14:21:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (9901 , '2026-01-27 14:07:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (9901, '2026-01-27 20:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (212, '2026-01-27 14:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (212, '2026-01-27 20:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (227, '2026-01-27 14:08:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (227, '2026-01-27 20:04:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (199, '2026-01-27 20:04:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (199, '2026-01-28 08:12:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (795, '2026-01-27 20:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (795, '2026-01-28 08:04:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (247, '2026-01-27 19:58:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (247, '2026-01-28 08:03:36.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (54, '2026-01-27 14:04:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (93, '2026-01-27 14:01:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (423, '2026-01-27 14:09:31.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (475, '2026-01-27 14:09:35.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (534, '2026-01-27 14:08:31.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (67, '2026-01-27 14:16:31.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (414, '2026-01-27 15:08:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (33, '2026-01-27 08:17:31.000','I',15,1,0,NULL,1);
-insert into CHECKINOUT values (33, '2026-01-27 14:09:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (393, '2026-01-27 08:07:31.000','I',15,2,0,NULL,1);
-insert into CHECKINOUT values (393, '2026-01-27 14:04:31.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (141, '2026-01-28 06:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (776, '2026-01-28 09:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (781, '2026-01-28 09:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (72, '2026-01-28 06:09:11.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (44, '2026-01-28 06:15:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (43, '2026-01-28 06:22:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (9899, '2026-01-28 09:02:34.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (564, '2026-01-28 06:07:11.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (9900, '2026-01-28 07:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12931, '2026-01-28 07:13:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (31, '2026-01-28 09:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (137, '2026-01-28 06:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12928, '2026-01-28 06:12:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (616, '2026-01-28 09:03:34.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (324, '2026-01-28 08:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (465, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (820, '2026-01-28 08:27:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (384, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (513, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4987, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (280, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (287, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (2892, '2026-01-28 08:10:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3940, '2026-01-28 08:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5996, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (857, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (60, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (641, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (416, '2026-01-28 07:14:31.000','I',15,3,0,NULL,1);
-
-
-insert into CHECKINOUT values (495, '2026-01-28 08:19:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (301, '2026-01-28 08:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (302, '2026-01-28 08:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4971, '2026-01-28 08:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (347, '2026-01-28 08:20:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (870, '2026-01-28 08:11:09.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13030, '2026-01-28 08:16:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (161, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (837, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (727, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (746, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (455, '2026-01-28 08:24:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (364, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14041, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (285, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (131, '2026-01-28 08:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (130, '2026-01-28 08:25:36.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (699, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (844, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13, '2026-01-28 08:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (295, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (368, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (292, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (657, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (288, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (291, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (296, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (297, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-
-
-
-insert into CHECKINOUT values (327, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (315, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (769, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (696, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (307, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (306, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (751, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (313, '2026-01-28 08:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (366, '2026-01-28 08:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (697, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (693, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-
-
-
-insert into CHECKINOUT values (140, '2026-01-28 08:06:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (144, '2026-01-28 08:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (590, '2026-01-28 08:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (188, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (133, '2026-01-28 08:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (136, '2026-01-28 08:08:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (338, '2026-01-28 08:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (156, '2026-01-28 08:03:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3944, '2026-01-28 08:13:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (104, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (329, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (333, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (25, '2026-01-28 08:07:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (58, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (66, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (61, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (123, '2026-01-28 08:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (328, '2026-01-28 08:08:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (7, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15049, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (78, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (79, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (757, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (602, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (67, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (93, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (423, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (142, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (593, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (475, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (775, '2026-01-28 08:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (54, '2026-01-28 08:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (536, '2026-01-28 08:10:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (386, '2026-01-28 08:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (387, '2026-01-28 08:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (89, '2026-01-28 08:06:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (565, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (343, '2026-01-28 08:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (75, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (421, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (405, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (519, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (754, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (736, '2026-01-28 07:18:18.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (735, '2026-01-28 07:25:21.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (2860, '2026-01-28 07:21:27.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (737, '2026-01-28 07:11:21.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (733, '2026-01-28 07:33:18.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (734, '2026-01-28 07:39:18.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (738, '2026-01-28 07:44:21.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (691, '2026-01-28 07:48:27.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (160, '2026-01-28 06:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (184, '2026-01-28 06:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (185, '2026-01-28 06:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (86, '2026-01-28 06:06:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (181, '2026-01-28 09:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (438, '2026-01-28 06:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (179, '2026-01-28 06:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (182, '2026-01-28 06:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (186, '2026-01-28 06:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (175, '2026-01-28 06:04:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (761, '2026-01-28 09:03:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (764, '2026-01-28 09:01:35.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (765, '2026-01-28 09:05:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (743, '2026-01-28 09:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (129, '2026-01-28 09:01:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (69, '2026-01-28 06:18:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (109, '2026-01-28 09:03:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (122, '2026-01-28 09:01:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (101, '2026-01-28 09:05:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (225, '2026-01-27 08:17:31.000','I',15,1,0,NULL,1);
-insert into CHECKINOUT values (225, '2026-01-27 14:09:31.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (15059, '2026-01-27 08:17:31.000','I',15,1,0,NULL,1);
-insert into CHECKINOUT values (15059, '2026-01-27 14:09:31.000','I',15,2,0,NULL,1);
-
-insert into CHECKINOUT values (376, '2026-01-28 08:26:11.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (42, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3, '2026-01-28 08:11:23.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (249, '2026-01-28 08:23:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (2899, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (424, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (221, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (255, '2026-01-28 08:08:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5995, '2026-01-28 08:27:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (208, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4978, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1); 
-insert into CHECKINOUT values (705, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (851, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (741, '2026-01-28 08:09:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (852, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (637, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (199, '2026-01-28 08:26:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (212, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4981, '2026-01-28 08:14:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (850, '2026-01-28 08:29:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (232, '2026-01-28 08:06:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (241, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (206, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (246, '2026-01-28 08:08:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (238, '2026-01-28 08:17:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3951, '2026-01-28 08:26:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (251, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (233, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3934, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (203, '2026-01-28 08:24:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (231, '2026-01-28 08:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (11002, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (7998, '2026-01-28 08:23:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (201, '2026-01-28 08:21:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (195, '2026-01-28 08:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (196, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (205, '2026-01-28 08:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (209, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14036, '2026-01-28 08:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (213, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (234, '2026-01-28 08:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (254, '2026-01-28 08:17:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5993, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (227, '2026-01-28 08:11:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (244, '2026-01-28 08:19:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (211, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13019, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (202, '2026-01-28 08:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (200, '2026-01-28 08:09:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (204, '2026-01-28 08:18:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (813, '2026-01-28 08:28:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (210, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (214, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (245, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-
-
-
-
-insert into CHECKINOUT values (226, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (225, '2026-01-28 08:28:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15059, '2026-01-28 08:09:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15052, '2026-01-28 08:09:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4990, '2026-01-28 08:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (3932, '2026-01-28 08:17:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (8999, '2026-01-28 08:23:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (823, '2026-01-28 08:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (842, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-
-
-
-
-
-
-insert into CHECKINOUT values (276, '2026-01-28 08:21:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (5991, '2026-01-28 08:14:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15046, '2026-01-28 08:17:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (11008, '2026-01-28 08:25:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (880, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (14038, '2026-01-28 08:09:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (273, '2026-01-28 08:05:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (715, '2026-01-28 08:02:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (4976, '2026-01-28 08:11:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (859, '2026-01-28 08:27:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (15050, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (257, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (264, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (269, '2026-01-28 08:18:36.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (13028, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (628, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (714, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (661, '2026-01-28 08:15:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12014, '2026-01-28 08:25:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (12016, '2026-01-28 08:09:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (275, '2026-01-28 08:11:31.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (272, '2026-01-28 08:21:31.000','I',15,3,0,NULL,1);
-
-insert into CHECKINOUT values (87, '2026-01-27 14:17:31.000','I',15,1,0,NULL,1);
-
-
-insert into CHECKINOUT values (135, '2026-01-28 08:10:35.000','I',15,3,0,NULL,1);
-insert into CHECKINOUT values (135, '2026-01-27 20:10:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (188, '2026-01-22 08:04:31.000','I',15,2,0,NULL,1);
+insert into CHECKINOUT values (188, '2026-01-22 14:01:31.000','I',15,2,0,NULL,1);
+
+insert into CHECKINOUT values (523, '2026-01-27 08:04:31.000','I',15,2,0,NULL,1);
+insert into CHECKINOUT values (523, '2026-01-27 14:01:31.000','I',15,2,0,NULL,1);
+
+insert into CHECKINOUT values (888, '2026-01-27 08:09:31.000','I',15,2,0,NULL,1);
+insert into CHECKINOUT values (888, '2026-01-27 14:12:31.000','I',15,2,0,NULL,1);
+
+insert into CHECKINOUT values (206, '2026-01-26 14:03:31.000','I',15,2,0,NULL,1);
+insert into CHECKINOUT values (36, '2026-01-27 14:09:36.000','I',15,1,0,NULL,1);
+insert into CHECKINOUT values (284, '2026-01-27 14:13:35.000','I',15,2,0,NULL,1);
+insert into CHECKINOUT values (410, '2026-01-26 14:28:35.000','I',15,2,0,NULL,1); 
+
+insert into CHECKINOUT values (249, '2026-01-28 14:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (2899, '2026-01-28 14:14:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (424, '2026-01-28 14:05:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (221, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (255, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (5995, '2026-01-28 14:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (208, '2026-01-28 14:27:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (4978, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1); 
+insert into CHECKINOUT values (705, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (851, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (741, '2026-01-28 14:25:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (852, '2026-01-28 14:10:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (637, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (199, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (212, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (4981, '2026-01-28 14:26:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (850, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (232, '2026-01-28 14:11:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (241, '2026-01-28 14:19:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (206, '2026-01-28 14:26:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (246, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (238, '2026-01-28 14:11:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3951, '2026-01-28 14:15:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (251, '2026-01-28 14:27:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (233, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3934, '2026-01-28 14:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (203, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (231, '2026-01-28 14:18:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (11002, '2026-01-28 14:25:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (7998, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (201, '2026-01-28 14:14:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (195, '2026-01-28 14:18:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (196, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (205, '2026-01-28 14:08:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (209, '2026-01-28 14:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (14036, '2026-01-28 14:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (213, '2026-01-28 14:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (234, '2026-01-28 14:08:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (254, '2026-01-28 14:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (5993, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (227, '2026-01-28 14:18:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (244, '2026-01-28 14:26:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (211, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (13019, '2026-01-28 14:15:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (202, '2026-01-28 14:24:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (200, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (204, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (813, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (210, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (214, '2026-01-28 14:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (245, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+
+
+
+
+insert into CHECKINOUT values (226, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (225, '2026-01-28 14:18:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (15059, '2026-01-28 14:26:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (15052, '2026-01-28 14:21:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (4990, '2026-01-28 14:07:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3932, '2026-01-28 14:03:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (8999, '2026-01-28 14:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (823, '2026-01-28 14:08:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (842, '2026-01-28 14:04:31.000','I',15,3,0,NULL,1);
+
+
+
+
+
+
+insert into CHECKINOUT values (276, '2026-01-28 14:06:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (5991, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (15046, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (11008, '2026-01-28 14:14:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (880, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (14038, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (273, '2026-01-28 14:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (715, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (4976, '2026-01-28 14:27:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (859, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (15050, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (257, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (264, '2026-01-28 14:25:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (269, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (13028, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (628, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (714, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (661, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12014, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12016, '2026-01-28 14:14:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (275, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (272, '2026-01-28 14:13:31.000','I',15,3,0,NULL,1);
+
+
+
+insert into CHECKINOUT values (4991, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (792, '2026-01-28 14:02:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12017, '2026-01-28 14:07:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (261, '2026-01-28 14:03:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3932, '2026-01-28 14:09:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (223, '2026-01-28 14:14:36.000','I',15,3,0,NULL,1);
+
+
+
+insert into CHECKINOUT values (141, '2026-01-28 12:17:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (776, '2026-01-28 16:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (781, '2026-01-28 16:17:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (72, '2026-01-28 12:23:11.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (44, '2026-01-28 12:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (43, '2026-01-28 12:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (9899, '2026-01-28 16:11:34.000','I',15,3,0,NULL,1); 
+insert into CHECKINOUT values (564, '2026-01-28 12:09:11.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (9900, '2026-01-28 15:17:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12931, '2026-01-28 15:26:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (31, '2026-01-28 16:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (137, '2026-01-28 12:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12928, '2026-01-28 12:25:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (616, '2026-01-28 16:09:34.000','I',15,3,0,NULL,1);
+
+
+
+insert into CHECKINOUT values (376, '2026-01-28 14:11:11.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (42, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3, '2026-01-28 14:06:23.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (324, '2026-01-28 14:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (465, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (820, '2026-01-28 14:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (384, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (513, '2026-01-28 14:06:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (4987, '2026-01-28 14:02:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (280, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (287, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (2892, '2026-01-28 14:14:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3940, '2026-01-28 14:27:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (416, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (5996, '2026-01-28 14:07:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (857, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (60, '2026-01-28 14:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (641, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+
+
+
+
+insert into CHECKINOUT values (495, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (301, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (302, '2026-01-28 14:25:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (4971, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (347, '2026-01-28 14:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (870, '2026-01-28 14:05:09.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (13030, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (161, '2026-01-28 14:06:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (837, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (727, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (746, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (455, '2026-01-28 14:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (364, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (14041, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (285, '2026-01-28 14:15:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (131, '2026-01-28 14:23:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (130, '2026-01-28 14:06:36.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (699, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (844, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (13, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (295, '2026-01-28 14:18:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (368, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (292, '2026-01-28 14:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (657, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (288, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (291, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (296, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (297, '2026-01-28 14:04:31.000','I',15,3,0,NULL,1);
+
+
+
+insert into CHECKINOUT values (327, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (315, '2026-01-28 14:05:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (769, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (696, '2026-01-28 14:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (307, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (306, '2026-01-28 14:15:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (751, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (313, '2026-01-28 14:26:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (366, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (697, '2026-01-28 14:11:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (693, '2026-01-28 14:13:31.000','I',15,3,0,NULL,1);
+
+
+
+insert into CHECKINOUT values (140, '2026-01-28 14:06:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (144, '2026-01-28 14:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (590, '2026-01-28 14:08:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (188, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (133, '2026-01-28 14:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (136, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (338, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (156, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3944, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (104, '2026-01-28 14:26:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (329, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1); 
+insert into CHECKINOUT values (333, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (25, '2026-01-28 14:02:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (58, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (66, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (61, '2026-01-28 14:26:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (123, '2026-01-28 14:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (328, '2026-01-28 14:05:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (7, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (15049, '2026-01-28 14:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (78, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (79, '2026-01-28 14:06:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (757, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (602, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (67, '2026-01-28 14:23:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (93, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (423, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (142, '2026-01-28 14:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (593, '2026-01-28 14:23:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (475, '2026-01-28 14:05:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (775, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (54, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (536, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (386, '2026-01-28 14:12:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (387, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (89, '2026-01-28 14:06:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (565, '2026-01-28 14:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (343, '2026-01-28 14:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (75, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (421, '2026-01-28 14:25:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (405, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (519, '2026-01-28 14:15:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (754, '2026-01-28 14:26:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (586, '2026-01-28 14:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3926, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (22, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3966, '2026-01-28 14:23:31.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (394, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (152, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (11003, '2026-01-28 14:14:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (751, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (415, '2026-01-28 15:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (412, '2026-01-28 15:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (413, '2026-01-28 15:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (414, '2026-01-28 15:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (305, '2026-01-28 14:23:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (3964, '2026-01-28 14:07:31.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (736, '2026-01-28 15:09:18.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (735, '2026-01-28 15:01:21.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (2860, '2026-01-28 15:03:27.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (737, '2026-01-28 15:14:21.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (733, '2026-01-28 15:08:18.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (734, '2026-01-28 15:04:18.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (738, '2026-01-28 15:03:21.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (691, '2026-01-28 15:08:27.000','I',15,3,0,NULL,1);
+
+
+
+
+
+
+insert into CHECKINOUT values (160, '2026-01-28 12:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (184, '2026-01-28 12:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (185, '2026-01-28 12:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (86, '2026-01-28 12:11:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (181, '2026-01-28 16:14:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (438, '2026-01-28 12:05:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (179, '2026-01-28 12:03:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (182, '2026-01-28 12:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (186, '2026-01-28 12:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (175, '2026-01-28 12:18:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (761, '2026-01-28 16:25:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (764, '2026-01-28 16:21:35.000','I',15,3,0,NULL,1); 
+insert into CHECKINOUT values (765, '2026-01-28 16:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (743, '2026-01-28 16:17:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (129, '2026-01-28 16:08:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (69, '2026-01-28 12:04:31.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (109, '2026-01-28 16:11:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (122, '2026-01-28 16:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (101, '2026-01-28 16:20:31.000','I',15,3,0,NULL,1);
+
+
+
+
+insert into CHECKINOUT values (100, '2026-01-28 16:08:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (187, '2026-01-28 16:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (72, '2026-01-28 12:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (5867, '2026-01-28 16:14:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (776, '2026-01-28 16:23:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (669, '2026-01-28 23:07:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (690, '2026-01-28 16:02:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (754, '2026-01-28 16:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (650, '2026-01-28 16:14:31.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (661, '2026-01-28 14:09:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (341, '2026-01-28 14:06:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (336, '2026-01-28 14:01:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (390, '2026-01-28 14:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (391, '2026-01-28 14:14:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (337, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (2891, '2026-01-28 14:21:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (332, '2026-01-28 14:06:31.000','I',15,3,0,NULL,1);
+
+
+
+
+
+insert into CHECKINOUT values (251 , '2026-01-28 14:06:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (251, '2026-01-28 20:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (7889, '2026-01-28 14:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (7889, '2026-01-28 20:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (235, '2026-01-28 14:05:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (235, '2026-01-28 20:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (195, '2026-01-28 14:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (195, '2026-01-28 20:12:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (424, '2026-01-28 20:00:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (424, '2026-01-29 08:13:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (250, '2026-01-28 19:43:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (250, '2026-01-29 08:03:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (227, '2026-01-28 19:55:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (227, '2026-01-29 08:01:36.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (249, '2026-01-29 08:07:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (208, '2026-01-29 07:55:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (199, '2026-01-29 08:03:36.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (160, '2026-01-29 06:12:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (184, '2026-01-29 06:06:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (185, '2026-01-29 06:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (86, '2026-01-29 06:14:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (181, '2026-01-29 09:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (438, '2026-01-29 06:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (179, '2026-01-29 06:23:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (182, '2026-01-29 06:07:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (186, '2026-01-29 06:15:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (175, '2026-01-29 06:21:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (761, '2026-01-29 09:05:35.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (764, '2026-01-29 09:02:35.000','I',15,3,0,NULL,1); 
+insert into CHECKINOUT values (765, '2026-01-29 09:05:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (743, '2026-01-29 09:01:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (129, '2026-01-29 09:02:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (69, '2026-01-29 06:11:31.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (109, '2026-01-29 09:04:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (122, '2026-01-29 09:01:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (101, '2026-01-29 09:03:31.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (100, '2026-01-29 09:04:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (187, '2026-01-29 09:01:31.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (141, '2026-01-29 06:14:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (776, '2026-01-29 09:06:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (781, '2026-01-29 09:03:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (72, '2026-01-29 06:13:11.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (44, '2026-01-29 06:26:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (43, '2026-01-29 06:21:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (9899, '2026-01-29 09:04:34.000','I',15,3,0,NULL,1); 
+insert into CHECKINOUT values (564, '2026-01-29 06:18:11.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (9900, '2026-01-29 07:09:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12931, '2026-01-29 07:14:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (31, '2026-01-29 09:05:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (137, '2026-01-29 06:11:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (12928, '2026-01-29 06:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (616, '2026-01-29 09:03:34.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (697, '2026-01-29 08:05:36.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (693, '2026-01-29 08:05:36.000','I',15,3,0,NULL,1);
+
+insert into CHECKINOUT values (398, '2026-01-28 14:09:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (396, '2026-01-28 14:17:31.000','I',15,3,0,NULL,1);
+insert into CHECKINOUT values (284, '2026-01-28 14:27:31.000','I',15,3,0,NULL,1);
+
+
+insert into CHECKINOUT values (3932, '2025-12-08 15:05:36.000','I',15,1,0,NULL,1);
+
+insert into CHECKINOUT values (135, '2026-01-28 14:10:35.000','I',15,3,0,NULL,1);
 
 
 AZAXX*X2SQML
