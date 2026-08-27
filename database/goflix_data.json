@@ -41327,6 +41327,19 @@
           }
         }
       ]
+    },
+    {
+      "title": "الحلقة 2",
+      "url": [
+        {
+          "url": "eXdW52HxWCUVJEeiX7ZCNIzC82lmak4GVuwDR7s4tp8esEbgW1+47ZVckg5hMpYB",
+          "domain_id": "vaplayer",
+          "subtitles": {
+            "ar": "W9A+jItRfgWSe3hybxq8SW3/tkqt4+53O+GF+QIJP03jgFQKHyuREy0Mqm5WNAU1mvNs69tXda5HuYcdZm8TQajvTnx0b78X4vRUpOcjSP4wzCLdlrHMZZ8BJzqr/D3N0AYN6dwgFHT54B/gOJgS9g==",
+            "en": "W9A+jItRfgWSe3hybxq8SW3/tkqt4+53O+GF+QIJP03jgFQKHyuREy0Mqm5WNAU1mvNs69tXda5HuYcdZm8TQajvTnx0b78X4vRUpOcjSP4LzZwmQjAgko7aagJh0Sk1LGpQeKXUwdseSHuBW7DLGw=="
+          }
+        }
+      ]
     }
   ]
 },
