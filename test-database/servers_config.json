@@ -1,32 +1,44 @@
 {
   "fasel": {
+    "name": "fasel",
     "url": "UwM9bQr4ds0mqlS6Nt1l4nMKdp0RdhQnI60ieRqKqbM=",
     "referer": "",
-    "user_agent": ""
+    "user_agent": "",
+    "download": false
   },
   "starcima": {
+    "name": "starcima",
     "url": "AaruH+XmUxTbmLxJI87qa42n9GdW28hlpC+Hu0MREpI=",
     "referer": "",
-    "user_agent": ""
+    "user_agent": "",
+    "download": false
   },
   "ak": {
+    "name": "ak",
     "url": "dKmo5w896tqXZGKESaAOmstgWamgQGxCfCeY+EFxoxk=",
     "referer": "",
-    "user_agent": ""
+    "user_agent": "",
+    "download": true
   },
   "topcinema": {
+    "name": "topcinema",
     "url": "DD555RtDdt4EFHSuFQSyHtyZXez+K/TCZ8vhFRgYvwg=",
     "referer": "",
-    "user_agent": ""
+    "user_agent": "",
+    "download": false
   },
   "aflaam": {
+    "name": "aflaam",
     "url": "YCHyjIsFzzxNXnOEk9/BqQ8+yZcpNgBhpGD846rIo/I=",
     "referer": "",
-    "user_agent": ""
+    "user_agent": "",
+    "download": true
   },
   "vaplayer": {
+    "name": "vaplayer",
     "url": "9ERl53JhbEU6NGYZVj9JNcqbyJJh2vkVPA1sWgpwZ7I=",
     "referer": "",
-    "user_agent": ""
+    "user_agent": "",
+    "download": false
   }
 }
