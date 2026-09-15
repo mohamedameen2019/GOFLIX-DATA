@@ -1,8 +1,58 @@
 {
-  "fasel": "https://web82218x.faselhdx.life",
-  "starcima": "https://starcima.cc",
-  "ak": "https://akwam.ss",
-  "topcinema": "https://topcinemaa.co",
-  "aflaam": "https://aflaam.com",
-  "vaplayer": "https://vaplayer.ru"
+  "fasel": {
+    "name": "fasel",
+    "url": "ybQ65COLeIb4zuvicsfDJZ6P8JKOlwa8jjJyrDeYQtU=",
+    "referer": "",
+    "user_agent": "",
+    "download": false
+  },
+  "starcima": {
+    "name": "starcima",
+    "url": "AaruH+XmUxTbmLxJI87qa42n9GdW28hlpC+Hu0MREpI=",
+    "referer": "",
+    "user_agent": "",
+    "download": false
+  },
+  "ak": {
+    "name": "ak",
+    "url": "dKmo5w896tqXZGKESaAOmstgWamgQGxCfCeY+EFxoxk=",
+    "referer": "",
+    "user_agent": "",
+    "download": true
+  },
+  "topcinema": {
+    "name": "topcinema",
+    "url": "DD555RtDdt4EFHSuFQSyHmG6wNeo2eNAm1jCyoKzH+Y=",
+    "referer": "HKduBUvUcx+uRJeWzITTVV2tJjfgwpP/ha3BXRg/VMc=",
+    "user_agent": "",
+    "download": false
+  },
+  "aflaam": {
+    "name": "aflaam",
+    "url": "YCHyjIsFzzxNXnOEk9/BqQ8+yZcpNgBhpGD846rIo/I=",
+    "referer": "",
+    "user_agent": "",
+    "download": true
+  },
+  "vaplayer": {
+    "name": "vaplayer",
+    "url": "9ERl53JhbEU6NGYZVj9JNcqbyJJh2vkVPA1sWgpwZ7I=",
+    "referer": "",
+    "user_agent": "",
+    "download": false
+  },
+  "ahwaktv": {
+    "name": "ahwaktv",
+    "url": "hHGu5jOKVnfrfccyxUiEbNQRJxjDJmGI0lcwG7FIggw=",
+    "referer": "",
+    "user_agent": "",
+    "download": false
+  },
+  "royal": {
+    "name": "royal",
+    "url": "zmFdwDXKNPDPvzAiZYYsNpFgt2e0bAi0H9g4DpHUlSw=",
+    "referer": "pQLSyB1MYize4Wy8sCB7JC/m6AOHUOlkJXpmeA5pAdE=",
+    "user_agent": "",
+    "download": false
+  }
 }
